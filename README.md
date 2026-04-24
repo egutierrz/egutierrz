@@ -116,18 +116,6 @@ Entrego documentación técnica, diagramas de arquitectura, diseños de API y pl
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=egutierrz&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egutierrz&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages"/>
-</p>
-
----
-
 <h2 align="center">📫 Contacto</h2>
 
 <p align="center">
