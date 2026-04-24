@@ -5,19 +5,15 @@
 ### Senior Backend Developer · Software Architect
 
 <p>
-  <em>Construyendo sistemas empresariales críticos con foco en arquitectura, integración y seguridad</em><br/>
-  <em>Building mission-critical enterprise systems with focus on architecture, integration and security</em>
+  <em>Construyendo sistemas empresariales críticos con foco en<br/>
+  arquitectura, integración y seguridad</em>
 </p>
 
 </div>
 
 <br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## Sobre mí
+## 👋 Sobre mí
 
 Desarrollador de software con **amplia trayectoria** diseñando y desarrollando sistemas empresariales en sectores de alto impacto como **banca, finanzas y retail**.
 
@@ -25,48 +21,24 @@ Mi enfoque está en el diseño de **arquitecturas backend robustas**, integracio
 
 Me apasiona transformar problemas de negocio complejos en soluciones técnicas claras, mantenibles y preparadas para crecer con la organización.
 
-### Áreas de experiencia
+<br/>
 
-- **Banca y Sistemas Financieros**<br/>
-  Arquitectura de soluciones transaccionales, seguridad, cumplimiento normativo y sistemas de alta disponibilidad.
+## 🎯 Áreas de experiencia
 
-- **Sistemas ERP**<br/>
-  Módulos contables, facturación electrónica (CFDI / SAT), addendas de clientes, integraciones con sistemas externos y conciliación de información financiera.
+**🏦 Banca y Sistemas Financieros**
+Arquitectura de soluciones transaccionales, seguridad, cumplimiento normativo y sistemas de alta disponibilidad.
 
-- **Sistemas Retail y TPV**<br/>
-  Puntos de venta, procesamiento de pagos de servicios, módulos de comisiones e integraciones con pasarelas de pago.
+**📊 Sistemas ERP**
+Módulos contables, facturación electrónica (CFDI / SAT), addendas de clientes, integraciones con sistemas externos y conciliación de información financiera.
 
-</td>
-<td width="50%" valign="top">
-
-## About me
-
-Software developer with **extensive experience** designing and developing enterprise systems in high-impact industries such as **banking, finance, and retail**.
-
-My focus is on **robust backend architectures**, complex system integrations, and solutions built around **scalability, security, and availability**.
-
-I enjoy turning complex business problems into clean, maintainable technical solutions ready to scale with the organization.
-
-### Areas of expertise
-
-- **Banking & Financial Systems**<br/>
-  Transactional solution architecture, security, regulatory compliance, and high-availability systems.
-
-- **ERP Systems**<br/>
-  Accounting modules, electronic invoicing (CFDI / SAT), customer addendas, third-party integrations, and financial reconciliation.
-
-- **Retail & POS Systems**<br/>
-  Point-of-sale software, service payment processing, commission modules, and payment gateway integrations.
-
-</td>
-</tr>
-</table>
+**🛒 Sistemas Retail y TPV**
+Puntos de venta, procesamiento de pagos de servicios, módulos de comisiones e integraciones con pasarelas de pago.
 
 <br/>
 
-<h2 align="center">🛠️ Stack Técnico · Tech Stack</h2>
+<h2 align="center">🛠️ Stack Técnico</h2>
 
-<p align="center"><strong>Lenguajes · Languages</strong></p>
+<p align="center"><strong>Lenguajes</strong></p>
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
@@ -93,7 +65,7 @@ I enjoy turning complex business problems into clean, maintainable technical sol
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-<p align="center"><strong>Bases de datos · Databases</strong></p>
+<p align="center"><strong>Bases de datos</strong></p>
 <p align="center">
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -113,7 +85,7 @@ I enjoy turning complex business problems into clean, maintainable technical sol
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
 </p>
 
-<p align="center"><strong>Integración & Mensajería · Integration & Messaging</strong></p>
+<p align="center"><strong>Integración & Mensajería</strong></p>
 <p align="center">
   <img src="https://img.shields.io/badge/MuleSoft-00A0DF?style=flat-square&logo=mulesoft&logoColor=white" alt="MuleSoft"/>
   <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white" alt="REST"/>
@@ -123,7 +95,7 @@ I enjoy turning complex business problems into clean, maintainable technical sol
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger"/>
 </p>
 
-<p align="center"><strong>Control de versiones y CI/CD · Version Control & CI/CD</strong></p>
+<p align="center"><strong>Control de versiones y CI/CD</strong></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
@@ -133,13 +105,13 @@ I enjoy turning complex business problems into clean, maintainable technical sol
 
 <br/>
 
-<h2 align="center">🧭 Metodologías y Arquitecturas · Methodologies & Architectures</h2>
+## 🧭 Metodologías y Arquitecturas
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🇪🇸 Arquitecturas y patrones**
+**Arquitecturas y patrones**
 - Microservicios
 - Arquitectura hexagonal / Clean Architecture
 - Domain-Driven Design (DDD)
@@ -152,29 +124,21 @@ I enjoy turning complex business problems into clean, maintainable technical sol
 - Seguridad por diseño (OAuth 2.0, JWT, cifrado)
 - Pruebas automatizadas (TDD / unit / integration)
 
-**Metodologías**
-- Scrum · Kanban · Agile
-- Code review y mentoría a equipos de desarrollo
-
 </td>
 <td width="50%" valign="top">
 
-**🇬🇧 Architectures & Patterns**
-- Microservices
-- Hexagonal / Clean Architecture
-- Domain-Driven Design (DDD)
-- Event-Driven Architecture
-- API-first and contract-first design
+**Metodologías de trabajo**
+- Scrum
+- Kanban
+- Agile
+- Code review
+- Mentoría a equipos de desarrollo
 
-**Best Practices**
-- SOLID principles and Clean Code
-- Refactoring and managed technical debt
-- Security by design (OAuth 2.0, JWT, encryption)
-- Automated testing (TDD / unit / integration)
-
-**Methodologies**
-- Scrum · Kanban · Agile
-- Code review and mentoring development teams
+**Entregables**
+- Documentación técnica
+- Diagramas de arquitectura
+- Diseño de APIs
+- Planes de migración y escalamiento
 
 </td>
 </tr>
@@ -182,30 +146,11 @@ I enjoy turning complex business problems into clean, maintainable technical sol
 
 <br/>
 
-<h2 align="center">💡 Filosofía de trabajo · Working Philosophy</h2>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🇪🇸**
+## 💡 Filosofía de trabajo
 
 > *"Un buen software no es el que funciona hoy, sino el que puede seguir funcionando, creciendo y cambiando mañana."*
 
 Creo firmemente en escribir código que otros (incluido mi yo del futuro) puedan entender. La claridad, la documentación pertinente y las decisiones de arquitectura justificadas valen más que cualquier truco elegante.
-
-</td>
-<td width="50%" valign="top">
-
-**🇬🇧**
-
-> *"Good software isn't the one that works today — it's the one that can keep working, growing and changing tomorrow."*
-
-I strongly believe in writing code that others (including my future self) can understand. Clarity, meaningful documentation, and well-reasoned architectural decisions are worth more than any clever trick.
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -221,7 +166,7 @@ I strongly believe in writing code that others (including my future self) can un
 
 <br/>
 
-<h2 align="center">📫 Contacto · Contact</h2>
+<h2 align="center">📫 Contacto</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/enrique-guti%C3%A9rrez-galicia-7b3b2441/">
