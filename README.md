@@ -5,77 +5,72 @@
 ### Senior Backend Developer · Software Architect
 
 <p>
-  <em>Construyendo sistemas empresariales críticos con foco en<br/>
-  arquitectura, integración y seguridad</em>
+  <em>Arquitectura, integración y seguridad para sistemas empresariales críticos</em>
 </p>
 
 </div>
 
-<br/>
+---
 
-## 👋 Sobre mí
+## Sobre mí
 
-Desarrollador de software con **amplia trayectoria** diseñando y desarrollando sistemas empresariales en sectores de alto impacto como **banca, finanzas y retail**.
+Soy desarrollador de software con **amplia trayectoria** construyendo soluciones backend para organizaciones en sectores donde el error no es una opción: **banca, sistemas financieros, ERP empresariales y retail**. He participado en proyectos que van desde el diseño de arquitecturas transaccionales, hasta la integración de plataformas heterogéneas y la modernización de sistemas legacy.
 
-Mi enfoque está en el diseño de **arquitecturas backend robustas**, integraciones complejas entre sistemas y soluciones orientadas a **escalabilidad, seguridad y disponibilidad**.
+Lo que más me apasiona de este trabajo es **convertir problemas de negocio complejos en arquitecturas claras, mantenibles y evolutivas**. Con los años he aprendido que el software que realmente aporta valor no es el más sofisticado, sino el que el equipo entiende, el negocio puede hacer crecer y el tiempo no destruye.
 
-Me apasiona transformar problemas de negocio complejos en soluciones técnicas claras, mantenibles y preparadas para crecer con la organización.
+Mi enfoque actual se centra en el diseño de sistemas distribuidos, la adopción de buenas prácticas de arquitectura y seguridad, y la integración entre plataformas modernas y heredadas. Disfruto trabajar en equipos donde la discusión técnica se mezcla con el entendimiento profundo del negocio.
 
-<br/>
+---
 
-## 🎯 Áreas de experiencia
+## Sectores donde he aportado valor
 
-**🏦 Banca y Sistemas Financieros**
-Arquitectura de soluciones transaccionales, seguridad, cumplimiento normativo y sistemas de alta disponibilidad.
+### 🏦 Banca y Servicios Financieros
 
-**📊 Sistemas ERP**
-Módulos contables, facturación electrónica (CFDI / SAT), addendas de clientes, integraciones con sistemas externos y conciliación de información financiera.
+Diseño y desarrollo de sistemas transaccionales, integración con core bancarios, soluciones de alta disponibilidad y cumplimiento de estándares regulatorios. Experiencia en arquitecturas preparadas para volúmenes críticos, trazabilidad de operaciones y controles de seguridad de grado bancario.
 
-**🛒 Sistemas Retail y TPV**
-Puntos de venta, procesamiento de pagos de servicios, módulos de comisiones e integraciones con pasarelas de pago.
+### 📊 Sistemas ERP y Plataformas Financieras Empresariales
 
-<br/>
+Desarrollo de módulos contables, **facturación electrónica (CFDI / SAT)**, generación de addendas para clientes corporativos, conciliaciones automáticas e integraciones con bancos, proveedores y sistemas de terceros. Conocimiento profundo del ciclo financiero y fiscal mexicano.
 
-<h2 align="center">🛠️ Stack Técnico</h2>
+### 🛒 Retail, Punto de Venta y Medios de Pago
 
-<p align="center"><strong>Lenguajes</strong></p>
+Construcción de sistemas TPV (punto de venta), módulos de comisiones, procesamiento de pagos de servicios e integración con pasarelas y procesadores de pago. Experiencia manejando escenarios de alta concurrencia, cierres contables y reportes operativos en tiempo real.
+
+---
+
+## Stack técnico
+
+Mi base principal gira alrededor del ecosistema **.NET y Java/Spring Boot** para servicios empresariales, complementado con **Node.js** para APIs ligeras y servicios orientados a integraciones. Selecciono la herramienta según el problema, no al revés.
+
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-</p>
-
-<p align="center"><strong>Backend & Frameworks</strong></p>
-<p align="center">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white" alt=".NET"/>
   <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" alt="ASP.NET"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
-</p>
-
-<p align="center"><strong>Frontend</strong></p>
-<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-<p align="center"><strong>Bases de datos</strong></p>
+Para la capa de datos trabajo con motores relacionales de nivel empresarial y soluciones NoSQL según el caso de uso, priorizando integridad transaccional donde importa y flexibilidad donde aporta.
+
 <p align="center">
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
 </p>
 
-<p align="center"><strong>Cloud & DevOps</strong></p>
+En la parte de **plataforma, integración y despliegue**, combino cloud con contenedores, orquestación y herramientas de integración empresarial. Esto me permite diseñar soluciones que van desde monolitos bien estructurados hasta arquitecturas distribuidas completas.
+
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP"/>
@@ -83,72 +78,55 @@ Puntos de venta, procesamiento de pagos de servicios, módulos de comisiones e i
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
-</p>
-
-<p align="center"><strong>Integración & Mensajería</strong></p>
-<p align="center">
   <img src="https://img.shields.io/badge/MuleSoft-00A0DF?style=flat-square&logo=mulesoft&logoColor=white" alt="MuleSoft"/>
-  <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white" alt="REST"/>
-  <img src="https://img.shields.io/badge/SOAP-005A9C?style=flat-square&logo=wsdl&logoColor=white" alt="SOAP"/>
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" alt="Kafka"/>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
+  <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white" alt="REST"/>
+  <img src="https://img.shields.io/badge/SOAP-005A9C?style=flat-square&logo=wsdl&logoColor=white" alt="SOAP"/>
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger"/>
-</p>
-
-<p align="center"><strong>Control de versiones y CI/CD</strong></p>
-<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins"/>
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white" alt="Azure DevOps"/>
 </p>
 
-<br/>
+---
 
-## 🧭 Metodologías y Arquitecturas
+## Cómo trabajo
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Pienso el software como un activo que debe sobrevivir y evolucionar, no como un entregable que se firma y se olvida. Mi forma de trabajar se apoya en tres pilares:
 
-**Arquitecturas y patrones**
-- Microservicios
-- Arquitectura hexagonal / Clean Architecture
-- Domain-Driven Design (DDD)
-- Event-Driven Architecture
-- API-first y contract-first
+**Arquitectura deliberada.** Diseño sistemas usando principios como microservicios, arquitectura hexagonal, Clean Architecture, Domain-Driven Design (DDD) y enfoques event-driven. No por moda, sino porque separan lo que cambia rápido de lo que debe permanecer estable. Trabajo con enfoque API-first y contract-first cuando construyo sistemas que otros equipos van a consumir.
 
-**Buenas prácticas**
-- Principios SOLID y Clean Code
-- Refactorización y deuda técnica controlada
-- Seguridad por diseño (OAuth 2.0, JWT, cifrado)
-- Pruebas automatizadas (TDD / unit / integration)
+**Calidad como disciplina diaria.** Aplico los principios SOLID y Clean Code con pragmatismo: lo suficiente para que el código sea legible y mantenible, sin caer en sobre-ingeniería. Practico TDD cuando el dominio lo amerita, pruebas unitarias y de integración en flujos críticos, code reviews honestos y manejo consciente de la deuda técnica.
 
-</td>
-<td width="50%" valign="top">
+**Seguridad por diseño.** En sistemas financieros y empresariales, la seguridad no es una capa al final sino un criterio de arquitectura. Trabajo con OAuth 2.0, JWT, cifrado en tránsito y en reposo, principios de mínimo privilegio y trazabilidad de operaciones sensibles.
 
-**Metodologías de trabajo**
-- Scrum
-- Kanban
-- Agile
-- Code review
-- Mentoría a equipos de desarrollo
+Entrego documentación técnica, diagramas de arquitectura, diseños de API y planes de migración cuando son necesarios. En equipos ágiles (Scrum / Kanban) aporto como desarrollador sénior, apoyando el crecimiento técnico del equipo a través de mentoría y revisiones de diseño.
 
-**Entregables**
-- Documentación técnica
-- Diagramas de arquitectura
-- Diseño de APIs
-- Planes de migración y escalamiento
+---
 
-</td>
-</tr>
-</table>
+## Lo que aporto a un equipo
 
-<br/>
-## 💡 Filosofía de trabajo
+- **Visión arquitectónica** para decidir qué construir, qué comprar y qué integrar, con criterios técnicos y de negocio.
+- **Experiencia en sectores regulados** (banca, facturación electrónica) donde la trazabilidad, la seguridad y el cumplimiento son innegociables.
+- **Capacidad de traducir** requerimientos de negocio ambiguos en soluciones técnicas concretas, entendibles por todos los involucrados.
+- **Mentoría y acompañamiento** a desarrolladores en formación, fomentando buenas prácticas sin imponerlas.
+- **Pragmatismo técnico:** sé cuándo aplicar patrones avanzados y cuándo una solución directa es la respuesta correcta.
 
-> *"Un buen software no es el que funciona hoy, sino el que puede seguir funcionando, creciendo y cambiando mañana."*
-<br/>
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=egutierrz&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egutierrz&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages"/>
+</p>
+
+---
 
 <h2 align="center">📫 Contacto</h2>
 
